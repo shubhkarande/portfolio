@@ -71,7 +71,7 @@ section{
     display: flex;
     align-items: center;
     padding: 0 9%;
-    background: url(images1.jfif) no-repeat;
+    background: url(images/images1.jfif) no-repeat;
     background-size: cover;
     background-position: center;
 }
